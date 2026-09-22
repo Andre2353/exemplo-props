@@ -28,5 +28,12 @@ export const GreetingText = styled.h2`
         font-weight: 700;
     }
 
+`;
+
+export const DIvider= styled.hr`
+ border: none;
+ height: 3px;
+ background: linear-gradient(to right, #3498db,#2ecc71);
+ border-radius: 2px;
 
 `
